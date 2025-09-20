@@ -7,6 +7,7 @@ This is a direct port of the nvimgelion colorscheme by nyngwang for Neovim.
 ### 1. Locate your Helix config directory
 - **Windows**: `C:/Users/<username>/AppData/Roaming/helix`
 - **Linux**: `home/<username>/.config/helix`
+
 If the `/helix` folder doesn't exist, then create it.
 
 ### 2. Install the theme
