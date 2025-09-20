@@ -3,7 +3,7 @@ A colorscheme for the Helix code editor using colors from Evangelion
 
 ## Origins
 This colorscheme is a copy of nvimgelion made by nyngwang which was made for Neovim.
-See original repo: [nyngwang/nvimgelion](https://github.com/nyngwang/nvimgelion)
+* See original repo: [nyngwang/nvimgelion](https://github.com/nyngwang/nvimgelion)
 
 ## Installation
 ### 1. Locate your Helix config directory
