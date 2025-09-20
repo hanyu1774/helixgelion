@@ -30,21 +30,21 @@
 # IF YOU WANT TO USE THE CUSTOM COLORING SCHEME THEN COMMENT THIS SETTING
 # AND UNCOMMENT THE OTHER ONE. 
 # FOR MORE INFO, LOOK FOR THE COMMENTED INSTRUCTION BELOW THIS CODE
-# "ui.statusline" = { fg = "gray_ui", bg = "bg_primary" }
-# "ui.statusline.inactive" = { fg = "gray_ui", bg = "bg_primary" }
-# "ui.statusline.normal" = { fg = "gray_ui", bg = "bg_primary" }
-# "ui.statusline.insert" = { fg = "gray_ui", bg = "bg_primary" }
-# "ui.statusline.select" = { fg = "gray_ui", bg = "bg_primary" }
+ "ui.statusline" = { fg = "gray_ui", bg = "bg_primary" }
+ "ui.statusline.inactive" = { fg = "gray_ui", bg = "bg_primary" }
+ "ui.statusline.normal" = { fg = "gray_ui", bg = "bg_primary" }
+ "ui.statusline.insert" = { fg = "gray_ui", bg = "bg_primary" }
+ "ui.statusline.select" = { fg = "gray_ui", bg = "bg_primary" }
 
 # CUSTOM COLORING SCHEME FOR THE STATUSLINE
 # THIS IS DISABLED BY DEFAULT DUE THE THE FOLLOWING BEING COMMENTED
 # REMOVE THE '#' AT THE BEGINNING TO ENABLE THE FOLLOWING CODE AND...
 # IMPORTANT: MAKE SURE TO COMMENT THE DEFAULT SETTING ABOVE BY ADDING '#' AT THE BEGINNING!
- "ui.statusline" = { fg = "#d3d3d3", bg = "#262626" }
- "ui.statusline.inactive" = { fg = "#d3d3d3", bg = "#262626" } 
- "ui.statusline.normal" = { fg = "#262626", bg = "#608b4e" }
- "ui.statusline.insert" = { fg = "#262626", bg = "#569CD6" }
- "ui.statusline.select" = { fg = "#262626", bg = "#c586c0" }
+# "ui.statusline" = { fg = "#d3d3d3", bg = "#262626" }
+# "ui.statusline.inactive" = { fg = "#d3d3d3", bg = "#262626" } 
+# "ui.statusline.normal" = { fg = "#262626", bg = "#608b4e" }
+# "ui.statusline.insert" = { fg = "#262626", bg = "#569CD6" }
+# "ui.statusline.select" = { fg = "#262626", bg = "#c586c0" }
 
 "ui.popup" = { bg = "bg_popup" }
 "ui.popup.info" = { bg = "bg_popup" }
