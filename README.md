@@ -16,6 +16,7 @@ This colorscheme is a copy of nvimgelion made by nyngwang which was made for Neo
 **Permanent:**
 - Edit or create `config.toml` in your Helix directory
 - Add: `theme = "nvimgelion"`
+
 **Temporary:**
 - In Helix editor: `:theme nvimgelion`
 - Or use `:theme` + `TAB` to browse available themes
