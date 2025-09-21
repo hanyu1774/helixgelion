@@ -1,4 +1,4 @@
-# nvimgelion-for-helix
+# Helixgelion
 A colorscheme for the Helix code editor using colors from Evangelion.
 This is a direct port of the nvimgelion colorscheme by nyngwang for Neovim.
 * See original repo: [nyngwang/nvimgelion](https://github.com/nyngwang/nvimgelion)
