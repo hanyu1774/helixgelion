@@ -12,12 +12,12 @@ If the `/helix` folder doesn't exist, then create it.
 
 ### 2. Install the theme
 1. Create a `themes` folder if it doesn't exist
-2. Download `nvimgelion.toml` and place it in the `themes` folder
+2. Download `helixgelion.toml` and place it in the `themes` folder
 ### 3. Enable the theme
 **Permanent:**
 - Edit or create `config.toml` in your Helix directory
-- Add: `theme = "nvimgelion"`
+- Add: `theme = "helixgelion"`
 
 **Temporary:**
-- In Helix editor: `:theme nvimgelion`
+- In Helix editor: `:theme helixgelion`
 - Or use `:theme` + `TAB` to browse available themes
